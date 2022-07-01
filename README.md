@@ -2,7 +2,9 @@
 
 ## Overview: 
 
-Explain the purpose of this analysis.
+For this week we are using a data set from LendingClub to use supervised machine learning to determine an applicants credit risk.
+
+To do this we used Random Over Sample and SMOTE algorithms to oversample, while then using cluster centroids to the undersample.  After this was completed we then used both Balanced Random Forest Classifier and Easy Ensemble Classifier machine learning models to predict credit risk.
 
 ## Results:
 
